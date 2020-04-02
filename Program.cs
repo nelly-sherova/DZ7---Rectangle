@@ -14,6 +14,16 @@ namespace Rectangle
             this.side1 = side1;
             this.side2 = side2;
         }
+        public double AreaCalculator(double side1, double side2)
+        {
+            area = side1*side2;
+            return area;
+        }
+        public double PerimeterCalculator(double side1, double side2)
+        {
+            perimeter = 2*(side1 + side2);
+            return perimeter;
+        }
     }
     class Program
     {
