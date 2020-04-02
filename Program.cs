@@ -31,7 +31,16 @@ namespace Rectangle
     {
         static void Main(string[] args)
         {
-            
+            Rectangle r1 = new Rectangle();
+            double side1, side2;
+            Console.Write("side1 = ");
+            side1 = Convert.ToDouble(Console.ReadLine());
+            Console.Write("side2 = ");
+            side2 = Convert.ToDouble(Console.ReadLine());
+            r1.AreaCalculator(side1, side2);
+            Console.WriteLine($"Area --> {r1.Area}");
+            r1.PerimeterCalculator(side1, side2);
+            Console.WriteLine($"Perimeter --> {r1.Perimeter}");
         }
     }
 }
