@@ -24,6 +24,8 @@ namespace Rectangle
             perimeter = 2*(side1 + side2);
             return perimeter;
         }
+        public double Area {get{return area;}}
+        public double Perimeter{get{return perimeter;}}
     }
     class Program
     {
