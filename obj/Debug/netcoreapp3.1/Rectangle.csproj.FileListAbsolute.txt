@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\My Projects\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.exe
+C:\Users\ASUS\Desktop\My Projects\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.deps.json
+C:\Users\ASUS\Desktop\My Projects\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.runtimeconfig.json
+C:\Users\ASUS\Desktop\My Projects\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\My Projects\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.dll
+C:\Users\ASUS\Desktop\My Projects\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.pdb
+C:\Users\ASUS\Desktop\My Projects\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\My Projects\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\My Projects\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\My Projects\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\My Projects\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.dll
+C:\Users\ASUS\Desktop\My Projects\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.pdb
+C:\Users\ASUS\Desktop\My Projects\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.genruntimeconfig.cache
